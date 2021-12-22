@@ -1,0 +1,14 @@
+{
+    "name": "app_send_mail/nivslive",
+    "description": "Sistema de emails desenvolvido com PHP puro para fins de estudo de POO.",
+    "type": "phpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "nivslive",
+            "email": "nivanjr123@gmail.com"
+        }
+    ]
+}
